@@ -9,11 +9,9 @@
 
 - 👯 I’m looking to collaborate on **AI/ML Projects**
 
-- 🤝 I’m looking for help with **AI/ML**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning**
 
 - 📫 How to reach me **subhashgupta1591@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dDFCGBw0VMgtpK_lIj6dK5nMgmtZ9PGK/view?usp=sharing](https://drive.google.com/file/d/1dDFCGBw0VMgtpK_lIj6dK5nMgmtZ9PGK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
