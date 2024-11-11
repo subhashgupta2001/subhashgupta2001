@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML Projects**
 
-- 💬 Ask me about **Artificial Intelligence, Machine Learning**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning, Data Science**
 
 - 📫 How to reach me **subhashgupta1591@gmail.com**
 
